@@ -1,0 +1,6 @@
+print("Complete name: "+"Gian Paolo D. Oga & Rosmyr Ace Nero Echeveria")
+print("Course: "+"BS Computer Science")
+print("Section: "+"CS1D")
+print("Age: "+"18 & 19")
+print("Birthday: "+"July 30, 2005 & April 16,2004")
+print("Address:"+"Brgy. 4 Balingasag Misamis Oriental & Baliwagan Balingasag Misamis Oriental")
